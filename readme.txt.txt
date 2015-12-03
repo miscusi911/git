@@ -7,3 +7,4 @@ tsst modify mange2;
 stupid boss is who?
 modify on the feture branch,can confilic?
 add merge;
+git modify for bug;
